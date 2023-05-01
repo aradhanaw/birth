@@ -1,0 +1,46 @@
+body{
+    background: lightblue;
+}
+#frm{
+    border:solid black 1px;
+    width:20%;
+    border-radius: 5px;
+    margin:100px auto;
+    background:white;
+    padding:50px;
+}
+.btn{
+    color:rgb(202, 202, 247);
+    background: blue;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    font-size:15px;
+}
+
+/*form{
+    width:30px;
+    margin: 0px auto;
+    padding:20px;
+    border: 1px solid black;
+    background: white;
+    border-radius: 0px 0px 10px 10px ;
+}*/
+
+.gr{
+    margin: 10px 0px 10px 0px;
+}
+
+.gr label{
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+.gr input{
+    height:30px;
+    width:93%;
+    padding:5px 10px;
+    font-size: 16px;
+    border-radius:5px;
+    border:1px solid gray;
+}
